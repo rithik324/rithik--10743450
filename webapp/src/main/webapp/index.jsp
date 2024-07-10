@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello this is Kavana M ,from devops domain</h1>
+    <h1>Hello this is Rithik G ,from devops domain</h1>
+    <h3>Milestone-2 Project [10743450]</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
